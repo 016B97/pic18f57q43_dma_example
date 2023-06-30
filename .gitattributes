@@ -1,0 +1,4 @@
+# Source files
+# ============
+*.s   linguist-language=assembly
+*.inc   linguist-language=assembly
